@@ -34,6 +34,7 @@ def parse_input(lines)
 end
 
 def main
+  lines = parse_input(load_input)
 end
 
 main
